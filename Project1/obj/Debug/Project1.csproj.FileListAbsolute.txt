@@ -1,0 +1,15 @@
+C:\Users\Memet\source\repos\LearnCSharpProject\Project1\bin\Debug\Project1.exe.config
+C:\Users\Memet\source\repos\LearnCSharpProject\Project1\bin\Debug\Project1.exe
+C:\Users\Memet\source\repos\LearnCSharpProject\Project1\bin\Debug\Project1.pdb
+C:\Users\Memet\source\repos\LearnCSharpProject\Project1\bin\Debug\EntityFramework.dll
+C:\Users\Memet\source\repos\LearnCSharpProject\Project1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Memet\source\repos\LearnCSharpProject\Project1\bin\Debug\EntityFramework.xml
+C:\Users\Memet\source\repos\LearnCSharpProject\Project1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Memet\source\repos\LearnCSharpProject\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+C:\Users\Memet\source\repos\LearnCSharpProject\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\Memet\source\repos\LearnCSharpProject\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\Memet\source\repos\LearnCSharpProject\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\Memet\source\repos\LearnCSharpProject\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Memet\source\repos\LearnCSharpProject\Project1\obj\Debug\Project1.csproj.CopyComplete
+C:\Users\Memet\source\repos\LearnCSharpProject\Project1\obj\Debug\Project1.exe
+C:\Users\Memet\source\repos\LearnCSharpProject\Project1\obj\Debug\Project1.pdb
