@@ -12,3 +12,17 @@ C:\Users\Memet\Desktop\LearnCSharpProject\Northwind.Bussines\obj\Debug\Northwind
 C:\Users\Memet\Desktop\LearnCSharpProject\Northwind.Bussines\obj\Debug\Northwind.Busines.csproj.CopyComplete
 C:\Users\Memet\Desktop\LearnCSharpProject\Northwind.Bussines\obj\Debug\Northwind.Bussines.dll
 C:\Users\Memet\Desktop\LearnCSharpProject\Northwind.Bussines\obj\Debug\Northwind.Bussines.pdb
+C:\Users\Memet\Desktop\LearnCSharpProject\Project1\Northwind.Bussines\bin\Debug\Northwind.Bussines.dll
+C:\Users\Memet\Desktop\LearnCSharpProject\Project1\Northwind.Bussines\bin\Debug\Northwind.Bussines.pdb
+C:\Users\Memet\Desktop\LearnCSharpProject\Project1\Northwind.Bussines\bin\Debug\Northwind.DataAccess.dll
+C:\Users\Memet\Desktop\LearnCSharpProject\Project1\Northwind.Bussines\bin\Debug\Northwind.Entities.dll
+C:\Users\Memet\Desktop\LearnCSharpProject\Project1\Northwind.Bussines\bin\Debug\EntityFramework.dll
+C:\Users\Memet\Desktop\LearnCSharpProject\Project1\Northwind.Bussines\bin\Debug\Northwind.DataAccess.pdb
+C:\Users\Memet\Desktop\LearnCSharpProject\Project1\Northwind.Bussines\bin\Debug\Northwind.DataAccess.dll.config
+C:\Users\Memet\Desktop\LearnCSharpProject\Project1\Northwind.Bussines\bin\Debug\Northwind.Entities.pdb
+C:\Users\Memet\Desktop\LearnCSharpProject\Project1\Northwind.Bussines\bin\Debug\EntityFramework.xml
+C:\Users\Memet\Desktop\LearnCSharpProject\Project1\Northwind.Bussines\obj\Debug\Northwind.Busines.csprojAssemblyReference.cache
+C:\Users\Memet\Desktop\LearnCSharpProject\Project1\Northwind.Bussines\obj\Debug\Northwind.Busines.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\LearnCSharpProject\Project1\Northwind.Bussines\obj\Debug\Northwind.Busines.csproj.CopyComplete
+C:\Users\Memet\Desktop\LearnCSharpProject\Project1\Northwind.Bussines\obj\Debug\Northwind.Bussines.dll
+C:\Users\Memet\Desktop\LearnCSharpProject\Project1\Northwind.Bussines\obj\Debug\Northwind.Bussines.pdb

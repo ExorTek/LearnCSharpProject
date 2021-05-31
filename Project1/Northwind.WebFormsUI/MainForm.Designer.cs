@@ -36,18 +36,18 @@ namespace Northwind.WebFormsUI
             // dgwProducts
             // 
             this.dgwProducts.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgwProducts.Location = new System.Drawing.Point(13, 13);
+            this.dgwProducts.Location = new System.Drawing.Point(5, 12);
             this.dgwProducts.Name = "dgwProducts";
             this.dgwProducts.RowHeadersWidth = 51;
             this.dgwProducts.RowTemplate.Height = 24;
-            this.dgwProducts.Size = new System.Drawing.Size(775, 257);
+            this.dgwProducts.Size = new System.Drawing.Size(896, 348);
             this.dgwProducts.TabIndex = 0;
             // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(905, 616);
             this.Controls.Add(this.dgwProducts);
             this.Name = "MainForm";
             this.Text = "Main";
